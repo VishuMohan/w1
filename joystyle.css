@@ -1,0 +1,210 @@
+body{
+    margin: 0;
+    
+}
+.header{
+      height: 145px;
+      width: 100%;
+      /* background-image: url(icecream.png); */
+      background-size: cover;
+      background-position: center;
+      background-color: #F9DB7A;
+      
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 70px;
+    padding-left: 50%;
+    padding-right: 10%;
+}
+.logo{
+    mask-image: url(Joy-Logo.png);
+    color: rgb(220, 9, 9);
+    font-size: 38px;
+    position: absolute;
+    right: 256px;
+    top: 27px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li{
+    color: gray;
+    text-decoration: none;
+    
+}
+nav ul li:hover{
+     color: black;
+}
+.logo{
+    position: absolute;
+    right: 1200px;
+
+}
+ul{
+    position:absolute;
+}
+.main-body{
+    
+    background-color: #F9DB7A;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+    
+    
+}
+.icecreamimage{
+    width: 700px;
+    position: relative;
+    display: flex;
+    
+}
+.small-heading{
+
+   justify-content: center;
+    font-size: 46px;
+    color: white;
+    display: flex;
+    margin-bottom: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.large-heading{
+    
+    font-size: 138.24px;
+    color: white;
+    display: flex;
+    margin-top: 0%;
+    text-align: center;
+    vertical-align: middle;
+   
+    
+    
+}
+.text{
+    position:absolute;
+    bottom: 40px;
+
+}
+.thirddiv{
+     background-color: #fff;
+     width: 100%;
+     height: 600px;
+     display: flex;
+     position: relative;
+}
+
+.joyheading{
+    color: #2f2e2e;
+    font-size: 35px;
+    margin: 0PX 0px 10px;
+    
+}
+.Your-happiness-our-JOY{
+    color: #2f2e2e;
+    font-size: 25px;
+    margin: 0PX 0PX 10px;
+
+}
+.iceinindia{
+    color: #2f2e2e;
+    font-size: 25PZ;
+    margin: 0PX 0PX 20PX;
+}
+
+.para2{
+    color: #2f2e2e;
+    font-size: 20px;
+    margin: 0px 0px 20px;
+}
+.familypackpic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.pledgeofjoy{
+    width: 1000px;
+    height: 661.75;
+}
+.foundersmessage{
+    height: 768;
+    width: 100%;
+    display: flex;
+}
+.founderstext{
+    
+}
+.fromjoysfounder{
+    font-size: 40px;
+    margin: 20px 0px;
+    color:#2f2e2e;
+}
+
+.para3{
+    font: 30px;
+    height: 108px;
+    width: 648px;
+    margin: 20px 0px;
+}
+
+.footer{
+    background-color: rgb(52, 50, 50);
+    height: 270px;
+}
+
+.link{
+    color: #fff;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: "Josefin Sans", sans-serif !important;
+    padding-left: 200px;
+    padding-top: 30px;
+   
+}
+
+.icons-tab{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
+.footer-row-links{
+
+    color: white;
+}
+.icons{
+    display: flex;
+    }
+ 
+.socialmediaicons{
+    color: antiquewhite;
+    float: right;
+    padding-left: 225px;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    /* justify-content: center; */
+
+}
+.copyright{
+    font-size: 18px;
+    color: #fff;
+    float: left;
+    margin-top: 45px;
+    margin-left: 65px;
+}   
+
+
